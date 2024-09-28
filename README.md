@@ -14,6 +14,6 @@
 Посмотреть **новые ресурсы, их крафты и другую информацию** можно ***[тут](https://github.com/mutetds-inc/minioniacustom/wiki)***
 
 > *Используемые ресурсы:*
-> - **Oraxen - oraxen.com**
-> - **PlanetMinecraft - planetminecraft.com**
-> - **PngWing - pngwing.com**
+> - **Oraxen - [oraxen.com](https://oraxen.com)**
+> - **PlanetMinecraft - [planetminecraft.com](https://planetminecraft.com)**
+> - **PngWing - [pngwing.com](https://pngwing.com)**
