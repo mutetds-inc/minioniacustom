@@ -1,6 +1,8 @@
 ![Minionia Custom Title](https://raw.githubusercontent.com/mutetds-inc/minioniacustom/refs/heads/main/minionia_custom_mod.png "Minionia Custom")
 ## A Minecraft Mod for MINIONIA SEASON 5 / Майнкрафт Мод для MINIONIA SEASON 5
 
+# Данный мод работает на Forge 1.20.1 (47.3.0)!
+
 Данный мод содержит все ресурсы которые ***предлагали игроки!***
 
 > *Тут есть*
